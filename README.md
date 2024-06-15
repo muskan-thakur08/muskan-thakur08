@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muskan-thakur08
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Dogs
 - 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me don't try
